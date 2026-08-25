@@ -1,0 +1,8 @@
+{
+  "name": "Shawaya Express - Lalamusa",
+  "description": "Official branch website for Shawaya Express in Thikrian, Mor Lalamusa. Featuring authentic flame-roasted chicken, aromatic Mandi rice, family deals, reviews, and quick WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
